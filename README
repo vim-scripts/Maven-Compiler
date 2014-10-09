@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5033
+
+Maven Compiler is a plugin to simplify the building of Java applications which use the maven project management system. This includes:
+
+1. A syntax file containing highlighting rules for Maven's pom.xml files.
+2. A compiler file containing the compiler setup and error format setup.
+3. A file type detection script for pom.xml files to setup the filetype and syntax type for pom editing.
+
+Github mirror:  https://github.com/JalaiAmitahl/maven-compiler.vim
+
